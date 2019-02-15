@@ -1,0 +1,21 @@
+{
+  "name": "@olivierbelaud/grocery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@olivierbelaud/apple": "^1.0.0",
+    "@olivierbelaud/banana": "^1.0.0",
+    "bulma": "^0.7.4",
+    "sillyname": "0.1.0"
+  }
+}
